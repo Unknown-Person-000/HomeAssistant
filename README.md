@@ -1,2 +1,2 @@
 # HomeAssistant
-HomeAssistant Configs
+A general repo for different HomeAssistant Configs
